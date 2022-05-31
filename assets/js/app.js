@@ -28,5 +28,10 @@ function cadastrarDespesa(){
             valor
         );
     
-    console.log(objDespesa)
+    salvar(objDespesa);
+
+}
+
+function salvar(objDespesa){
+    localStorage.setItem('despesa', JSON.stringify(objDespesa))
 }
