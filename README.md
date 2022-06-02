@@ -1,2 +1,2 @@
 # sistema-orcamento-pessoal
-Projeto criado visando aplicar os conhecimento estudados em JavaScript
+Projeto criado visando aplicar os conhecimento estudados em JavaScript, HTML E CSSS!
